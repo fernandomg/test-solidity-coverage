@@ -1,0 +1,16 @@
+{
+  "name": "test-solidity-coverage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "coverage": "solidity-coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "solidity-coverage": "^0.6.0-beta.5",
+    "truffle": "^5.0.12"
+  }
+}
